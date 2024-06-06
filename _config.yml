@@ -1,5 +1,7 @@
 remote_theme: jekyll/minima
 minima:
   skin: auto
+  social_links:
+    - { platform: github,  user_url: "https://github.com/hedg3hog/hedg3hog" }
 plugins:
 - jekyll-remote-theme 
